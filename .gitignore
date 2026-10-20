@@ -1,0 +1,18 @@
+﻿# Archivos compilados por Maven
+target/
+
+# Archivos privados de NetBeans
+nbproject/private/
+
+# Registros de ejecución
+*.log
+
+# Variables de entorno y credenciales
+.env
+.env.*
+
+# Archivos temporales y del sistema
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
